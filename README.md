@@ -2,9 +2,7 @@
 
 Landing page satu halaman untuk warung kopi fiktif **Kopi Pojok**. Dibuat sebagai contoh portofolio jasa pembuatan website untuk UMKM.
 
-🔗 **Demo:** https://mustaghfirly.github.io/kopi-pojok/
-
-![Tampilan Kopi Pojok](img/screenshot.png)
+🔗 **Demo:** https://mustaghfirly.github.io/kopi_pojok/
 
 ## Fitur
 
